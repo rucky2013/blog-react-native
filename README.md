@@ -1,2 +1,2 @@
 # blog-react-native
-blog-native base on React Native
+[blog](https://github.com/mhbseal/blog), React Native版!
